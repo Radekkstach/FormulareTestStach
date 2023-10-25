@@ -1,0 +1,10 @@
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\bin\Debug\StachtestFormulare.exe.config
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\bin\Debug\StachtestFormulare.exe
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\bin\Debug\StachtestFormulare.pdb
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.csproj.AssemblyReference.cache
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.Form1.resources
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.Properties.Resources.resources
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.csproj.GenerateResource.cache
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.csproj.CoreCompileInputs.cache
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.exe
+G:\PROgramovani\StachtestFormulare\StachtestFormulare\obj\Debug\StachtestFormulare.pdb
